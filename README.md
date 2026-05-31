@@ -1,10 +1,10 @@
 # Neuroscan
-=============================================================================
+
   DEMENTIA PREDICTION PROJECT
   Dataset: OASIS Longitudinal MRI Dataset (dementia_data.csv)
   Target:  Group (Nondemented / Demented / Converted)
   Task:    Multi-class Classification
-=============================================================================
+
 
 PROJECT OVERVIEW
 ----------------
@@ -32,5 +32,5 @@ STEPS FOR RUN THIS PROJECT
     -python -m pip install streamlit scikit-learn pandas numpy matplotlib seaborn
     -python -m streamlit run dementia_prediction_project.py
     -python -m streamlit run app.py
-=============================================================================
+
 
