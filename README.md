@@ -30,7 +30,7 @@ STEPS FOR RUN THIS PROJECT
 
 5. Run this code first then run streamlit
     1) python -m pip install streamlit scikit-learn pandas numpy matplotlib seaborn
-    2) python -m streamlit run dementia_prediction_project.py
+    2) python dementia_prediction_project.py
     3) python -m streamlit run app.py (open another terminal and run this command)
 
 
